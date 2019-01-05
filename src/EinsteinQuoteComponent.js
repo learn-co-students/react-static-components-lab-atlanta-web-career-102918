@@ -7,7 +7,7 @@ export class EinsteinQuoteComponent extends Component {
 				<i>
 					<p>
 						&quot;Life is like riding a bicycle. To keep your balance you must
-						keep moving&quot;
+						keep moving and thinking &quot;
 					</p>
 				</i>
 				<br />
