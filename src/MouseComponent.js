@@ -5,7 +5,7 @@ export default class MouseComponent extends Component {
   componentDidMount() {
     require("./hoverEffect.js")
   }
-  
+  // change
   render() {
     return (
       <div className="bar" id="mouse">
